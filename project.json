@@ -1,0 +1,12 @@
+{
+  "name": "md-vector",
+  "version": "1.0.0",
+  "cppStandard": "c++17",
+  "description": "A custom vector class",
+  "author": "Loic Schneider",
+  "license": "mit",
+  "dependencies": {
+    "catch2": "2.13.4",
+    "benchmark": "1.6.1"
+  }
+}
